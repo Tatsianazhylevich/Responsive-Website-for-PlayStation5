@@ -304,7 +304,10 @@ button:hover{
         flex-basis: 100%;
         text-align: -webkit-center;
     }
-
+    .box_info h2{
+        padding: 10px 0;
+        font-size: 1.5em;
+    }
 
     
 
